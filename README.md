@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ellaboevans
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on any Frontend Website projects
-- 📫 How to reach me:
+Hi, I’m Evans
+👀 I’m interested in Web Development, Natural Language Processing, Programming and New Technologies
+🌱 I’m currently learning Python and JavaScript
+💞️ I’m looking to collaborate on Web Development Projects
+📫 How to reach me:
         https://linkedin.com/in/evans-elabo 
         mailto:ellaboevans@gmail.com
 
