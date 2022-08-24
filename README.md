@@ -1,8 +1,9 @@
-Hi, I’m Evans
-👀 I’m interested in Web Development, Natural Language Processing, Programming and New Technologies
-🌱 I’m currently learning Python and JavaScript
-💞️ I’m looking to collaborate on Web Development Projects
-📫 How to reach me:
+### Hi, I’m Evans
+
+* 👀 I’m interested in Web Development, Natural Language Processing, Programming and New Technologies
+* 🌱 I’m currently learning Python and JavaScript
+* 💞️ I’m looking to collaborate on Web Development Projects
+* 📫 How to reach me:
         https://linkedin.com/in/evans-elabo 
         mailto:ellaboevans@gmail.com
 
