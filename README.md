@@ -7,7 +7,7 @@
         https://linkedin.com/in/evans-elabo 
         mailto:ellaboevans@gmail.com
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ellaboevans)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ellaboevans&theme=dark)](https://git.io/streak-stats)
 <!---
 ellaboevans/ellaboevans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
