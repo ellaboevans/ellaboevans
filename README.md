@@ -1,10 +1,10 @@
 ### Hi, I’m Evans
 
-* 👀 I’m interested in Web Development, Natural Language Processing, Programming and New Technologies
+* 👀 A proud Software Developer from Ghana 🇬🇭
 * 🌱 I’m currently learning Python and JavaScript
-* 💞️ I’m looking to collaborate on Web Development Projects
+* 💞️ I’m looking to collaborate on Web Development, and React Native Projects
 * 📫 How to reach me:
-        https://linkedin.com/in/evans-elabo 
+        https://linkedin.com/in/eelabo
         mailto:ellaboevans@gmail.com
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ellaboevans&theme=dark)](https://git.io/streak-stats)
