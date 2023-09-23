@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===============================================================================================================================================
 
 * 👀 A proud Software Developer from Ghana 🇬🇭
-* 🌱 I’m currently learning C, Python and JavaScript
+* 🌱 I’m currently learning C and Python
 * 💞️ I’m looking to collaborate on Web Development, and React Native Projects
 * 📫 How to reach me: [ellaboevans@gmail.com](mailto:ellaboevans@gmail.com)
 
