@@ -4,6 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 👀 A proud Software Developer from Ghana 🇬🇭
 * 🌱 I’m currently learning C and Python
 * 💞️ I’m looking to collaborate on Web Development, and React Native Projects
+* 🌱 My Portfolio website: <a href="https://oxconcept.vercel.app/" target="_blank">OxConcept | Evans Elabo</a>
 * 📫 How to reach me: [ellaboevans@gmail.com](mailto:ellaboevans@gmail.com)
 
 <p align="center"> <a href="https://twitter.com/dev_concept" target="blank"><img src="https://img.shields.io/twitter/follow/dev_concept?logo=twitter&style=for-the-badge" alt="dev_concept" /></a> </p>
