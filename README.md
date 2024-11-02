@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===============================================================================================================================================
 
 * 👀 A proud Software Developer from Ghana 🇬🇭
-* 🌱 I’m currently learning Python & Angular
+* 🌱 I’m currently learning Angular
 * 💞️ I’m looking to collaborate on Web Development, and React Native Projects
 * 🌱 My Portfolio website: <a href="https://oxconcept.vercel.app/" target="_blank">OxConcept | Evans Elabo</a>
 * 📫 How to reach me: [ellaboevans@gmail.com](mailto:ellaboevans@gmail.com)
