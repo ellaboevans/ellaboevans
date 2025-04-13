@@ -1,9 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Evans Elabo
 ===============================================================================================================================================
 
-* 👀 A proud Software Developer from Ghana 🇬🇭
-* 🌱 I’m currently learning Angular
-* 💞️ I’m looking to collaborate on Web Development, and React Native Projects
+* 👀 A proud Software Engineer and Certified AWS Cloud Practitionner from Ghana 🇬🇭
+* 🌱 I’m specializing in frontend where I build cool stuff with React, NextJs & Angular
 * 🌱 My Portfolio website: <a href="https://oxconcept.vercel.app/" target="_blank">OxConcept | Evans Elabo</a>
 * 📫 How to reach me: [ellaboevans@gmail.com](mailto:ellaboevans@gmail.com)
 
