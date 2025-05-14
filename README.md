@@ -40,6 +40,7 @@ Let’s collaborate or just chat about tech!
   <a href="https://www.linkedin.com/in/eelaboevans" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn" /></a>
   <a href="https://twitter.com/dev_concept" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" width="32" height="32" alt="Twitter" /></a>
   <a href="https://www.behance.com/ellaboevans" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/behance/behance-original.svg" width="32" height="32" alt="Behance" /></a>
+  <a mailto:"https://www.behance.com/ellaboevans" target="_blank" rel="noreferrer"><img src="https://jsmmphbgljjpwklfsxjp.supabase.co/storage/v1/object/public/svgs/envelop.jpg" width="32" height="32" alt="envelope" /></a>
 </p>
 
 📧 **Email**: [ellaboevans@gmail.com](mailto:ellaboevans@gmail.com)  
