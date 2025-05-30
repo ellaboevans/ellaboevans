@@ -60,6 +60,12 @@ A glimpse into my coding journey:
   <a href="https://github.com/ellaboevans"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellaboevans&layout=compact&theme=dracula&title_color=50fa7b&text_color=ffffff&bg_color=282a36&hide_border=true" alt="Top Languages" /></a>
 </p>
 
+
+---
+## 📬 Get in Touch
+<a href="https://app.daily.dev/oxconcept"><img src="https://api.daily.dev/devcards/v2/9OnL610BXnIttL3HWj9QM.png?r=78d" width="356" alt="Evans Elabo's Dev Card"/></a>
+
+
 ---
 
 ## 💡 What’s Next?  
