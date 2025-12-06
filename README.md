@@ -1,7 +1,7 @@
 
 # 👋 Hey, I'm Evans Elabo!  
 
-**Software Engineer | AWS Certified Cloud Practitioner**  
+**Software Engineer | AWS Certified Cloud Practitioner | Linguistics**  
 📍 Ghana 🇬🇭 | Building sleek, modern web experiences  
 
 ---
