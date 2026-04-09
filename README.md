@@ -44,7 +44,7 @@ Let’s collaborate or just chat about tech!
 </p>
 
 📧 **Email**: [ellaboevans@gmail.com](mailto:ellaboevans@gmail.com)  
-🌍 **Portfolio**: [Small God | Evans Elabo](https://ng-elabo.vercel.app/)  
+🌍 **Portfolio**: [Small God | Evans Elabo](https://elabo.me)  
 
 ---
 
@@ -52,14 +52,8 @@ Let’s collaborate or just chat about tech!
 A glimpse into my coding journey:  
 
 <p align="center">
-  <a href="https://github.com/ellaboevans"><img src="https://github-readme-stats.vercel.app/api?username=ellaboevans&show_icons=true&theme=dracula&title_color=50fa7b&text_color=ffffff&icon_color=50fa7b&bg_color=282a36&hide_border=true" alt="Evans' GitHub Stats" /></a>
-        <a href="http://www.github.com/ellabevans"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ellaboevans&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+ <a href="http://www.github.com/ellabevans"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ellaboevans&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/ellaboevans"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellaboevans&layout=compact&theme=dracula&title_color=50fa7b&text_color=ffffff&bg_color=282a36&hide_border=true" alt="Top Languages" /></a>
-</p>
-
 
 ---
 ## 📬 Get in Touch
