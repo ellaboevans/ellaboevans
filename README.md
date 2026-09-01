@@ -10,6 +10,7 @@
 I'm a passionate Software Engineer specializing in **Frontend Software Engineering**, crafting intuitive and dynamic user interfaces with **React**, **Next.js**, and **Angular**. I love turning ideas into pixel-perfect realities and thrive on solving complex challenges with clean, scalable code. As an **AWS Certified Cloud Practitioner**, I bring a cloud-first mindset to my projects, ensuring performance and reliability.  
 
 🔍 **Currently exploring**: Machine Learning & NLP | Exploring Computational Linguistics & AI
+
 💡 **Fun fact**: I’m a Figma enthusiast who occasionally designs UI mockups for fun!  
 
 ---
