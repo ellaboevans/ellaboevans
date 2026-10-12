@@ -2,16 +2,16 @@
 # 👋 Hey, I'm Evans Elabo!  
 
 **Software Engineer | AWS Certified Cloud Practitioner | Linguistics**  
-📍 Ghana 🇬🇭 | Building sleek, modern web experiences  
+📍 Ghana 🇬🇭 | Building sleek, modern software experiences  
 
 ---
 
 ## 🚀 About Me  
-I'm a passionate Software Engineer specializing in **Frontend Software Engineering**, crafting intuitive and dynamic user interfaces with **React**, **Next.js**, and **Angular**. I love turning ideas into pixel-perfect realities and thrive on solving complex challenges with clean, scalable code. As an **AWS Certified Cloud Practitioner**, I bring a cloud-first mindset to my projects, ensuring performance and reliability.  
+ Linguistics graduate (First Class, KNUST) and software engineer. I speak English, Twi, Fante, and Nzema and study how multilingual speakers use language online. My BA dissertation examined code-switching and standard versus non-standard language use on Ghanaian social media.
+ 
+I build data pipelines (Python, SQL, PySpark, Airflow) and production web apps (Angular, React, Next.js), including a Go-based USSD service for users without internet access
 
-🔍 **Currently exploring**: Machine Learning & NLP | Exploring Computational Linguistics & AI
-
-💡 **Fun fact**: I’m a Figma enthusiast who occasionally designs UI mockups for fun!  
+Currently: building NLP skills toward computational linguistics, with a focus on low-resource languages
 
 ---
 
