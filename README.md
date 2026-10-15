@@ -11,14 +11,13 @@ I speak English, Twi, Fante, and Nzema, and I'm interested in how multilingual s
 
 I build data pipelines (Python, SQL, PySpark, Airflow) and production web apps (Angular, React, Next.js), including a Go-based USSD service for users without internet access. Much of this work is in private organization repositories.
 
-**Currently:** building NLP skills toward computational linguistics, with a focus on low-resource languages.
+**Currently:** building NLP skills toward computational linguistics, with a focus on low-resource languages. Latest: [a language-ID error analysis for Ghanaian languages](https://github.com/ellaboevans/ghanaian-langid-eval).
 
 ---
 
 ## Selected work
 
-<!-- Add your NLP project here first once it exists, e.g.:
-- **[Project name](link)**: one line on what it does -->
+**[Language identification for Twi, Fante, Nzema and Ghanaian Pidgin](https://github.com/ellaboevans/ghanaian-langid-eval)**: error analysis of a character n-gram baseline, GlotLID and AfroLID on clean text, tweets and code-mixed data; informal Twi typing (no ɛ/ɔ) and Ghanaian Pidgin are the main failure points
 - **Multi-source HR data integration and entity resolution pipeline** (private): standardized 49,000+ records from four sources, with fuzzy matching and human-in-the-loop review of uncertain matches
 - **USSD service for an event platform serving close to 1 million users** (private): offline access to core services
 
